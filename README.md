@@ -20,7 +20,7 @@ It consists of the following packages:
 * Some useful tools
 
 
-To get started:
+To get started
 * Read everything in the "doc" directory.
 * Building is done by running server/misc/buildall.sh
 
